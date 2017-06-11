@@ -3,7 +3,7 @@ package channelqueue_test
 import (
 	"fmt"
 
-	"github.com/delabroj/channelQueue"
+	"github.com/delabroj/channelqueue"
 )
 
 func Example() {
